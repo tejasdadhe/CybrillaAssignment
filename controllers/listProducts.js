@@ -1,7 +1,4 @@
 const product = require('../models/product');
-const mongoose = require('mongoose');
-
-
 
 const handleCall = function(err,res)
 {
